@@ -61,6 +61,9 @@ Sample projects:
 
 - A minimal NES example using ca65 
   - Link: https://github.com/bbbradsmith/NES-ca65-example
+- Nova The Squirrel: an open source NES platformer game
+  - Link: https://github.com/NovaSquirrel/NovaTheSquirrel
+  - Interesting: https://github.com/NovaSquirrel/PrincessEngine
   
 ## NES Emulators
 
@@ -134,6 +137,8 @@ To take matters in your own hands:
 
 - Tiled map editor. 
   - Link: https://www.mapeditor.org/
+- PrincessEdit.
+  - Link: https://github.com/NovaSquirrel/PrincessEdit
 
 ## Random Fun
 
