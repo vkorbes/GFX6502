@@ -30,7 +30,15 @@ Start with the Easy6502 emulator. Then move on to 8bitworkshop. Lastly, build a 
   - [ ] Implement it from memory in Go.
   - [ ] Implement it for 6502, either NES or 6502js.
   - [ ] Implement it from memory on the NES.
+- [ ] Implement Snake on the NES.
+- [ ] Implement 3D tutorial from Coding Train in Go
+- [ ] Implement 3D tutorial from Coding Train on the NES
+- [ ] Implement 3D engine from javidx9 in Go
+- [ ] Implement 3D engine from javidx9 on the NES
+
+Extras:
   
+- [ ] Solve Project Euler puzzles in 6502
 - [ ] Re-implement all of these: https://www.youtube.com/playlist?list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr
 
 ## Assembly Practice
@@ -47,6 +55,8 @@ Ordered by complexity. Go through them all.
   - Article: http://wilsonminesco.com/StructureMacros/
   - CA65: https://www.cc65.org/doc/ca65-11.html
   - CA65: https://www.cc65.org/doc/ca65-12.html
+- Project Euler.
+  - Link: https://projecteuler.net/
 - Learn Multiplatform 6502 Assembly (ChibiAkumas)
   - Link: https://www.youtube.com/watch?v=lsvSZamCCBM&list=PLp_QNRIYljFofA93OyUFnxDamjemzidFv
   
@@ -54,10 +64,25 @@ Ordered by complexity. Go through them all.
 
 Go through them all.
 
+Tutorials:
+
+- NES Development Day 1
+  - Link: https://www.moria.us/blog/2018/03/nes-development
+- Nerdy Nights.
+  - Link: https://nerdy-nights.nes.science/
+- CA65 port for Nerdy Nights. (Broken?)
+  - Link: https://bitbucket.org/ddribin/nerdy-nights/src/default/
+- GBA Guy.
+  - Link: https://patater.com/gbaguy/nesasm.htm
+- Famicon Party.
+  - Link: https://book.famicom.party/
+
 Watch and learn:
 
-  - ChibiAkumas channel.
-    - Link: https://www.youtube.com/playlist?list=PLp_QNRIYljFoSkq8absJGxocIvofS06RN
+- ChibiAkumas channel.
+  - Link: https://www.youtube.com/playlist?list=PLp_QNRIYljFoSkq8absJGxocIvofS06RN
+- Tyler Barnes channel.
+  - Link: https://www.youtube.com/user/TylerBarnesMusic/videos
     
 Sample projects:
 
@@ -66,6 +91,12 @@ Sample projects:
 - Nova The Squirrel: an open source NES platformer game
   - Link: https://github.com/NovaSquirrel/NovaTheSquirrel
   - Interesting: https://github.com/NovaSquirrel/PrincessEngine
+- NESASM Hello World.
+  - Link: https://gist.github.com/camsaul/0bd13b94574d936ce9a7
+- Reference.
+  - Link: https://www.chibiakumas.com/6502/nesfamicom.php
+- Raycaster demo.
+  - Link: https://www.youtube.com/watch?v=po69zgqyFWM
   
 ## NES Emulators
 
@@ -78,6 +109,27 @@ Sample projects:
 - Nesicide.
   - Link: https://knob.phreneticappsllc.com/nesicide/
   
+## NES Game References
+
+- The Games That Pushed The Limits Of The NES
+  - Link: https://www.racketboy.com/retro/best-nes-graphics-sound
+- The 10 Best NES Games
+  - Link: https://uk.pcmag.com/gallery/124205/the-10-best-nes-games
+- Double Dragon
+- Elite
+  - Source: https://github.com/kieranhj/elite-beebasm
+- Solstice
+- Metal Gear
+- Rad Racer
+- Cosmic Epsilon
+- WorldRunner
+- Marble Madness
+- Snake Rattle 'n' Roll
+- Super Glove Ball
+- Faceball (GB)
+- Zen - Intergalactic Ninja
+- Destination Earthstar
+
 ## Graphics
 
 I'm Too Young to Die:
@@ -127,6 +179,8 @@ Interesting:
   - Link: https://smb3.bf0.org/ghidra-loader/ghidra-plugin/2019-08-20-ghidra-loader/
 - Article: "Debugging 6502 Assembly Doesn't Have to be Awful"
   - Link: https://vintageisthenewold.com/debugging-6502-assembly-doesnt-have-to-be-awful-retrochallenge-2018-04-update-9/
+- clever-disasm
+  - Link: https://github.com/bisqwit/nescom
     
 To take matters in your own hands:
 
@@ -167,5 +221,15 @@ History:
 - 6502 arithmetic and why it is terrible
   - Link: https://news.ycombinator.com/item?id=17275797
     
+Next steps:
 
+- SNES
+  - A Comprehensive Super Mario Bros. Disassembly
+    - Link: https://news.ycombinator.com/item?id=15484907
+    - Link: https://gist.github.com/1wErt3r/4048722
+- x86
+  - x86 assembly book:
+    - Link: http://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf
+  - x86 assembly programs:
+    - Link: https://softwareengineering.stackexchange.com/a/155740
     
