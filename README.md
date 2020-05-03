@@ -10,47 +10,58 @@ Below are a sea of notes and ideas to do so.
 
 If you're looking for order, come back in a few months (:
 
-# 6502 Basics
+## 6502 Basics
 
-- Best tutorial ever, learn 6502 assembly in one sitting. Link: https://dwheeler.com/6502/oneelkruns/asm1step.html
-- Easy6502. Good explanations! Link: http://skilldrick.github.io/easy6502/
-- List of 6502 bugs. Are they present in emulators?? Link: http://www.textfiles.com/apple/6502.bugs.txt
+- Best tutorial ever, learn 6502 assembly in one sitting. 
+  - Link: https://dwheeler.com/6502/oneelkruns/asm1step.html
+- Easy6502. Good explanations! 
+  - Link: http://skilldrick.github.io/easy6502/
+- List of 6502 bugs. Are they present in emulators?? 
+  - Link: http://www.textfiles.com/apple/6502.bugs.txt
 
-# Exercises
+## Exercises
 
 - See the Snake game from Easy6502 above. Re-implement it from memory, fixing the bugs discussed in this gist: https://gist.github.com/wkjagt/9043907
 
 
 
 
-# NES Emulators
+## NES Emulators
 
-- Mesen. Link: https://www.mesen.ca/
-- Fceux. Link: http://www.fceux.com/web/home.html
-  - Has no debugger on Linux! Emulate with Wine.
-- JSNES. Link: https://github.com/bfirsh/jsnes-web
+- Mesen.
+  - Link: https://www.mesen.ca/
+- Fceux. It has no debugger on Linux! Emulate with Wine.
+  - Link: http://www.fceux.com/web/home.html
+- JSNES. 
+  - Link: https://github.com/bfirsh/jsnes-web
   
-# Debuggers
+## Debuggers
 
 All of them suck.
 
 Interesting:
-    - BBC Micro emulator. Link: https://github.com/mattgodbolt/jsbeeb/wiki/Debugger
-    - 8bitworkshop. Link: https://8bitworkshop.com/v3.5.1/?repo=sehugg%2FNES-ca65-example&platform=nes&file=example.s
-    - Ghidra loader for NES. Link: https://smb3.bf0.org/ghidra-loader/ghidra-plugin/2019-08-20-ghidra-loader/
+    - BBC Micro emulator. 
+      - Link: https://github.com/mattgodbolt/jsbeeb/wiki/Debugger
+    - 8bitworkshop. 
+      - Link: https://8bitworkshop.com/v3.5.1/?repo=sehugg%2FNES-ca65-example&platform=nes&file=example.s
+    - Ghidra loader for NES. 
+      - Link: https://smb3.bf0.org/ghidra-loader/ghidra-plugin/2019-08-20-ghidra-loader/
     
 To take matters in your own hands:
-    - Something that looks good. Link: https://github.com/cyrus-and/gdb-dashboard
-    - Writing a debugger. Link: https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/
+    - Something that looks good. 
+      - Link: https://github.com/cyrus-and/gdb-dashboard
+    - Writing a debugger. 
+      - Link: https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/
 
+## Tools
 
-# Tools
+- Tiled map editor. 
+  - Link: https://www.mapeditor.org/
 
-- Tiled map editor. Link: https://www.mapeditor.org/
+## Random Fun
 
-# Random Fun
-
-- InfoSec NES. Link: https://news.ycombinator.com/item?id=12951503
+- InfoSec NES. 
+  - Link: https://news.ycombinator.com/item?id=12951503
 
     
     
