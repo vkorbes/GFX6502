@@ -31,10 +31,11 @@ Start with the Easy6502 emulator. Then move on to 8bitworkshop. Lastly, build a 
   - [ ] Implement it for 6502, either NES or 6502js.
   - [ ] Implement it from memory on the NES.
 - [ ] Implement Snake on the NES.
-- [ ] Implement 3D tutorial from Coding Train in Go
-- [ ] Implement 3D tutorial from Coding Train on the NES
-- [ ] Implement 3D engine from javidx9 in Go
-- [ ] Implement 3D engine from javidx9 on the NES
+- [ ] Implement 3D tutorial from Coding Train in Go.
+- [ ] Implement 3D tutorial from Coding Train on the NES.
+- [ ] Implement 3D engine from javidx9 in Go.
+- [ ] Implement 3D engine from javidx9 on the NES.
+- Look into ray casting.
 
 Extras:
   
