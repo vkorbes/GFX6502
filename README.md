@@ -12,7 +12,7 @@ If you're looking for order, come back in a few months (:
 
 ## 6502 Basics
 
-- Best tutorial ever, learn 6502 assembly in one sitting. 
+- Best tutorial ever, learn 6502 assembly in one sitting: Assembly In One Step. 
   - Link: https://dwheeler.com/6502/oneelkruns/asm1step.html
 - Easy6502. Good explanations! 
   - Link: http://skilldrick.github.io/easy6502/
@@ -24,6 +24,12 @@ If you're looking for order, come back in a few months (:
 Start with the Easy6502 emulator. Then move on to 8bitworkshop. Lastly, build a local dev environment.
 
 - [ ] See the Snake game from Easy6502 above. Re-implement it from memory, fixing the bugs discussed in this gist: https://gist.github.com/wkjagt/9043907
+  - Run it locally: https://github.com/skilldrick/6502js
+  - Fun fact: I helped! 🎉 https://github.com/skilldrick/6502js/pull/9
+- [ ] Learn Bresenham's line drawing algorithm. 
+  - [ ] Implement it from memory in Go.
+  - [ ] Implement it for 6502, either NES or 6502js.
+  - [ ] Implement it from memory on the NES.
 
 ## Assembly Practice
 
@@ -39,6 +45,17 @@ Ordered by complexity. Go through them all.
   - Article: http://wilsonminesco.com/StructureMacros/
   - CA65: https://www.cc65.org/doc/ca65-11.html
   - CA65: https://www.cc65.org/doc/ca65-12.html
+- Learn Multiplatform 6502 Assembly (ChibiAkumas)
+  - Link: https://www.youtube.com/watch?v=lsvSZamCCBM&list=PLp_QNRIYljFofA93OyUFnxDamjemzidFv
+  
+## NES Practice
+
+Go through them all.
+
+Watch and learn:
+
+  - ChibiAkumas channel.
+    - Link: https://www.youtube.com/playlist?list=PLp_QNRIYljFoSkq8absJGxocIvofS06RN
   
 ## NES Emulators
 
@@ -54,6 +71,11 @@ Ordered by complexity. Go through them all.
 ## Graphics
 
 I'm Too Young to Die:
+
+- Bresenham line drawing:
+  - Go: https://raw.githubusercontent.com/StephaneBunel/bresenham/master/drawline.go
+  - Go: https://rosettacode.org/wiki/Bitmap/Bresenham%27s_line_algorithm#Go
+  - 6502: https://gist.github.com/petrihakkinen/cc07aa5d15baf157c668f3dcc582ecc2
 
 Hurt Me Plenty:
 
