@@ -81,6 +81,9 @@ I'm Too Young to Die:
   - Go: https://raw.githubusercontent.com/StephaneBunel/bresenham/master/drawline.go
   - Go: https://rosettacode.org/wiki/Bitmap/Bresenham%27s_line_algorithm#Go
   - 6502: https://gist.github.com/petrihakkinen/cc07aa5d15baf157c668f3dcc582ecc2
+- 2D Graphics Algorithms:
+  - Part 1: https://www.youtube.com/watch?v=bfvmPa9eWew
+  - Part 2: https://www.youtube.com/watch?v=IDFB5CDpLDE
 
 Hurt Me Plenty:
 
@@ -94,6 +97,9 @@ Ultra-Violence:
 - Code-It-Yourself! 3D Graphics Engine Series (javidx9)
   - Link: https://www.youtube.com/watch?v=ih20l3pJoeU
 
+Books:
+
+- Fundamentals of Computer Graphics (Marschner & Shirley)
 
 ## Graphics on 6502
 
