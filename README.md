@@ -30,6 +30,8 @@ Start with the Easy6502 emulator. Then move on to 8bitworkshop. Lastly, build a 
   - [ ] Implement it from memory in Go.
   - [ ] Implement it for 6502, either NES or 6502js.
   - [ ] Implement it from memory on the NES.
+  
+- [ ] Re-implement all of these: https://www.youtube.com/playlist?list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr
 
 ## Assembly Practice
 
