@@ -56,6 +56,11 @@ Watch and learn:
 
   - ChibiAkumas channel.
     - Link: https://www.youtube.com/playlist?list=PLp_QNRIYljFoSkq8absJGxocIvofS06RN
+    
+Sample projects:
+
+- A minimal NES example using ca65 
+  - Link: https://github.com/bbbradsmith/NES-ca65-example
   
 ## NES Emulators
 
